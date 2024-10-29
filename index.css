@@ -1,22 +1,22 @@
-/*body {
+body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-image: url("images/table.png");
     text-align: center;
     color: black;
 
-}*/
+}
 
 h1 {
     color: goldenrod;
 }
 
-/*button{
+button{
     background-color: goldenrod;
     padding-top: 8dp;
     margin: 10px;
     border-radius: 5px;
     width: 150px;
-}*/
+}
 
 #message-el {
     
